@@ -4,7 +4,7 @@ pipelines/aviation/pipeline.py - Changed all to aviation-related names
 pipelines/aviation - Changed folder name from abalone to aviation
 
 ## Workflow
-![Workflow] (AWS MLOps.png "Workflow")
+![Workflow](AWS_MLOps.png)
 
 ## Steps to use
 1. Create a project using the MLOps template for model building, training, and deployment
