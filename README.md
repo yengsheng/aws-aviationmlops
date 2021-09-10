@@ -1,7 +1,7 @@
 ## Things changed from original
-pipelines/aviation/preprocess.py - Added data cycler and changed features corresponding to our project
-pipelines/aviation/pipeline.py - Changed all to aviation-related names
-pipelines/aviation - Changed folder name from abalone to aviation
+* pipelines/aviation/preprocess.py - Added data cycler and changed features corresponding to our project
+* pipelines/aviation/pipeline.py - Changed all to aviation-related names
+* pipelines/aviation - Changed folder name from abalone to aviation
 
 ## Workflow
 ![Workflow](AWS_MLOps.png)
